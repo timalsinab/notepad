@@ -1,5 +1,8 @@
 
 # Notepad Project
+![notepad](https://github.com/timalsinab/notepad/assets/112141352/38eb580e-dcf1-43ba-97e1-a5406d4203d9)
+
+
 
 Welcome to the Notepad Project! This project aims to develop a simple and intuitive digital notepad application. The Notepad Project provides users with a user-friendly interface for creating, editing, and saving text documents, serving as a convenient platform for note-taking and organizing information.
 
